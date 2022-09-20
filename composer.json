@@ -1,6 +1,6 @@
 {
     "name": "heyjones/acf-multisite-post-object",
-    "version": "0.0.0",
+    "version": "1.0.0",
     "description": "Advanced Custom Fields: Multisite Post Object Field",
     "license": "GPL-2.0+",
     "type": "wordpress-plugin",
